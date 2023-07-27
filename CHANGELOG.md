@@ -1,3 +1,8 @@
+## 4.3.0
+
+- Update Kotlin Gradle plugin version 1.8.21
+- protobuf_version to version 3.
+
 ## 4.2.4
 
 - Update Kotlin Gradle plugin version 1.5.20 (#65)
